@@ -2,7 +2,7 @@
 
 # ember-enhanced-computed
 
-Enhanced the user experience of the `Ember.computed` function just a little bit.
+Enhances the user experience of the `Ember.computed` function just a little bit.
 
 ## Installation
 
