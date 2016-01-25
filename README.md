@@ -4,6 +4,8 @@
 
 Enhances the user experience of the `Ember.computed` function just a little bit.
 
+Most of the functionality has been extracted from [ember-computed-decorators](https://github.com/rwjblue/ember-computed-decorators).
+
 ## Installation
 
 ```sh
